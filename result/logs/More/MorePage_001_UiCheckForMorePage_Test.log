@@ -1,0 +1,17 @@
+[2018-03-02 16:15:39] [INFO] 必应搜索APP已经启动
+[2018-03-02 16:15:40] [INFO] uiCheckForMorePage 测试用例开始执行！
+[2018-03-02 16:15:40] [INFO] uiCheckForMorePage 测试用例开始执行！
+[2018-03-02 16:15:42] [INFO] 点击元素： id: com.microsoft.bing:id/tutorial_finish_button
+[2018-03-02 16:15:43] [INFO] 点击元素： id: android:id/button2
+[2018-03-02 16:15:44] [INFO] 点击元素： id: com.microsoft.bing:id/search_homepage_hamburger
+[2018-03-02 16:15:44] [INFO] 正在验证APP更多界面文本内容是否正确
+[2018-03-02 16:15:45] [INFO] 找到了期望的文字: [登录]
+[2018-03-02 16:15:45] [INFO] 找到了期望的文字: [书签和历史记录]
+[2018-03-02 16:15:46] [INFO] 找到了期望的文字: [设置]
+[2018-03-02 16:15:46] [INFO] 找到了期望的文字: [撰写反馈]
+[2018-03-02 16:15:46] [INFO] 验证APP更多界面文本内容完成
+[2018-03-02 16:15:46] [INFO] uiCheckForMorePage 测试用例执行成功！
+[2018-03-02 16:15:46] [INFO] uiCheckForMorePage 测试用例执行成功！
+[2018-03-02 16:15:46] [INFO] 必应搜索APP已经关闭
+[2018-03-02 16:15:46] [INFO] 执行成功的用例 = uiCheckForMorePage
+[2018-03-02 16:15:46] [INFO] 执行成功的用例 = uiCheckForMorePage
